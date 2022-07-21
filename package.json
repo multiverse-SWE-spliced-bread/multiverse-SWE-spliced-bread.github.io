@@ -1,0 +1,25 @@
+{
+  "name": "multiverse-swe-spliced-bread.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multiverse-SWE-spliced-bread/multiverse-SWE-spliced-bread.github.io.git"
+  },
+  "author": "SWE UK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/multiverse-SWE-spliced-bread/multiverse-SWE-spliced-bread.github.io/issues"
+  },
+  "homepage": "https://github.com/multiverse-SWE-spliced-bread/multiverse-SWE-spliced-bread.github.io#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
