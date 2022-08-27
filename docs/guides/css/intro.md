@@ -1,4 +1,4 @@
-## Fundamental Concepts
+### Fundamental Concepts
 Cascading - How CSS resolves conflicts
 1. The Source Order
 	- last definition (all else being equal) will be taken
@@ -7,13 +7,13 @@ Cascading - How CSS resolves conflicts
 3. Inheritance
 	- HTML is a tree-structure (parent and children elements): certain properties are inheritable. If I style my element with a font colour, decendants will inherit this property. Not all properties are inheritable
 
-## Syntax & Selectors
+### Syntax & Selectors
 Syntax
 ![Image showing the structure of a ccs rule.](https://www.w3schools.com/css/img_selector.gif)
 
 A CSS rule consists of a selector and a declaration block.  A declaration block is denoted by {} and can contain more than one declaration.   A declaration consists of a property and a value in this format: `property: value;`
   
-## Properties
+### Properties
 1.  **Colours**
 
 | type | value |
@@ -35,7 +35,7 @@ A CSS rule consists of a selector and a declaration block.  A declaration block 
 
   
  
-## Length Units
+### Length Units
 
 1. Absolute Lengths
 
@@ -43,12 +43,11 @@ A CSS rule consists of a selector and a declaration block.  A declaration block 
 
 2. Relative Lengths
 
- - em and rem
- - vh and vw
+- em and rem
 
   
 
-## Box Model
+### Box Model
 
 ![A display of the CSS box model depicting the different edges of content, padding, border and margin from smallest to largest.](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model/boxmodel-%283%29.png)
 1. Content

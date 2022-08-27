@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
+  name: SWE Bootcamp
+  text: Guides
   tagline: Lorem ipsum...
   image:
     src: /logo.png
@@ -14,5 +14,5 @@ hero:
       link: /contents
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/multiverse-SWE-spliced-bread/multiverse-SWE-spliced-bread.github.io
 ---
